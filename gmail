@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Gmail Web App</title>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
+  <style>
+    body {
+      font-family: 'Montserrat', Arial, sans-serif;
+      line-height: 1.5;
+      background-color: #001529;
+      color: #ffffff;
+      padding: 0 20px;
+    }
+    .container {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 0 15px;
+    }
+    .section {
+      margin-bottom: 40px;
+    }
+    h1 {
+      font-size: 36px;
+      font-weight: bold;
+      margin-bottom: 20px;
+    }
+    h2 {
+      font-size: 28px;
+      font-weight: bold;
+      margin-bottom: 15px;
+    }
+    h3 {
+      font-size: 20px;
+      font-weight: bold;
+      margin-bottom: 10px;
+    }
+    p {
+      font-size: 16px;
+      margin-bottom: 10px;
+    }
+    a:link {
+      color: #ffffff;
+    }
+    a:visited {
+      color: #b0bfdf;
+    }
+  </style>
+</head>
+
+<body>
+<div class="container">
+ <!-- The purpose of this class is to add margins and improve readability. -->
+  <div class="section">
+    <!-- An introduction to the Gmail Web App: purpose, importance, value proposition. -->
+    <h1>Gmail Web App - where convenience and innovation meet.</h1>
+    <p>Experience seamless communication and productivity with Gmail, the ultimate web-based email platform.</p>
+    <p>With Gmail's advanced labeling and filtering options, you can effortlessly sort and categorize your emails, ensuring that nothing gets lost in the shuffle.</p>
+    <p>Connect with colleagues, clients, and friends effortlessly, no matter where you are.</p>
+  </div>
+
+  <div class="section">
+    <!-- Tips for first-time users. -->
+    <h2>1. Getting Started with Gmail: Streamline Your Email Experience</h2>
+    <p>Welcome to Gmail, the powerhouse web-based email platform that revolutionizes the way you manage your digital conversations. With Gmail, you can effortlessly stay connected, organized, and productive. Let's dive in and get started!</p>
+  <h3>Sign Up for a Gmail Account:</h3>
+  <ol>
+    <li>Visit the Gmail website at <a href="https://www.gmail.com">gmail.com</a>.</li>
+    <li>Click on the "Create account" button to begin the sign-up process.</li>
+    <li>Follow the on-screen prompts to provide the required information, such as your name, desired email address, password, and phone number.</li>
+    <li>Complete the account creation process by verifying your phone number and agreeing to the terms of service.</li>
+  </ol>
+  <h3>Navigate the Gmail Interface:</h3>
+  <p>Once you've signed in to your Gmail account, you'll land on the Gmail interface. Take a moment to familiarize yourself with the different components, including the sidebar, top navigation bar, and the main email view. Explore the various icons and labels, such as Inbox, Sent, Drafts, and more, to understand how Gmail organizes your email.</p>
+  <h3>Compose and Send Emails:</h3>
+  <ol>
+    <li>To compose a new email, click on the "Compose" button, located at the top left of the Gmail interface.</li>
+    <li>Enter the recipient's email address in the "To" field, provide a concise and descriptive subject line, and start typing your message in the body.</li>
+    <li>Utilize the formatting options, such as bold, italics, and bullet points, to enhance your message.</li>
+    <li>Attach files or images by clicking on the paperclip icon.</li>
+    <li>Once your email is ready, click "Send" to deliver your message.</li>
+  </ol>
+  <h3>Customize Your Gmail Settings:</h3>
+  <ol>
+    <li>Click on the gear icon in the top right corner of the Gmail interface and select "Settings" from the drop-down menu.</li>
+    <li>Explore the different tabs, such as General, Labels, and Filters, to personalize your Gmail experience.</li>
+    <li>Customize your signature, email display density, and notification preferences to suit your needs.</li>
+    <li>Take advantage of the advanced settings to fine-tune your inbox organization, auto-forwarding, and vacation responder.</li>
+  </ol>
+  <h3>Stay Organized with Labels and Filters:</h3>
+  <p>Gmail offers powerful labeling and filtering options to keep your inbox organized. Create labels to categorize your emails and easily locate them later. Set up filters to automatically sort incoming emails based on specific criteria, such as sender, subject, or keywords. Take control of your inbox and ensure that important emails are prioritized and easily accessible.</p>
+  </div>
+
+  <div class="section">
+    <!-- A list of Gmail's basic features followed by short, user-centered descriptions. -->
+    <h2>2. Basic Features</h2>
+    <ul>
+      <li><a href="#compose-send">Compose and Send Emails</a></li>
+      <li><a href="#organize-inbox">Organize Emails in the Inbox</a></li>
+      <li><a href="#manage-contacts">Manage Contacts and Create Contact Groups</a></li>
+      <li><a href="#find-emails">Effortlessly Find Specific Emails with Search and Filters</a></li>
+      <li><a href="#manage-attachments">Efficiently Manage Attachments and File Sharing</a></li>
+      <li><a href="#email-signatures">Create Personalized Email Signatures</a></li>
+      <li><a href="#out-of-office">Set Up Out-of-Office Replies</a></li>
+    </ul>
+    <h3 id="compose-send">Compose and Send Emails</h3>
+    <p>Craft and deliver impactful messages with the Gmail Web App. Our intuitive interface makes composing and sending emails a breeze. With a few clicks, you can express yourself, share information, and connect with your recipients like never before. Say goodbye to the complexities of traditional email platforms and experience the ease of communication with Gmail.</p>
+    <h3 id="organize-inbox">Organize Emails in the Inbox</h3>
+    <p>Stay on top of your inbox with Gmail's smart and efficient organization features. Our intelligent algorithms automatically categorize and prioritize incoming emails, ensuring that you never miss an important message. With a clear and clutter-free interface, you can easily navigate and manage your inbox, keeping it tidy and ensuring that your most important messages are always within reach.</p>
+    <h3 id="manage-contacts">Manage Contacts and Create Contact Groups</h3>
+    <p>Streamline your communication by easily managing your contacts and creating contact groups. With Gmail, you can easily store and organize your contacts, ensuring quick access whenever you need it. Whether it's colleagues, clients, or friends, our platform allows you to maintain a well-curated contact list that simplifies your email interactions.</p>
+    <h3 id="find-emails">Effortlessly Find Specific Emails with Search and Filters</h3>
+    <p>Save time and locate important emails instantly with Gmail's powerful search and filtering capabilities. Our advanced search functionality empowers you to search by sender, subject, keywords, and more, ensuring that you can locate specific emails with precision. With customizable filters, you can automatically sort and prioritize incoming messages based on your preferences, helping you stay organized and focused.</p>
+    <h3 id="manage-attachments">Efficiently Manage Attachments and File Sharing</h3>
+    <p>Say goodbye to the limitations of traditional email attachments. With Gmail, you can easily manage attachments and seamlessly share files of various formats. Our platform enables smooth collaboration, allowing you to send and receive files with ease. Whether it's documents, images, or presentations, Gmail's file sharing capabilities simplify your workflow and enhance productivity.</p>
+    <h3 id="email-signatures">Create Personalized Email Signatures</h3>
+    <p>Make a lasting impression with personalized email signatures. With Gmail, you can create unique signatures that reflect your professional identity. Customize fonts, add logos, and include contact information to ensure that every email you send is a true representation of your brand and personality.</p>
+    <h3 id="out-of-office">Set Up Out-of-Office Replies</h3>
+    <p>Take control of your email communications even when you're away with Gmail's out-of-office reply feature. Whether you're on vacation, attending a conference, or simply out of the office, you can set up automatic replies to keep your contacts informed and manage expectations. Enjoy peace of mind knowing that your contacts receive timely and informative responses even when you're unavailable.</p>
+  </div>
+
+  <div class="section">
+    <!-- This is the 'extra' feature I chose to describe. This section would normally contain at least 3 advanced features. -->
+    <h2>3. Advanced Features</h2>
+    <h3>Smart Reply</h3>
+    <p>Experience the power of Smart Reply, where Gmail's artificial intelligence takes center stage. With this remarkable feature, your inbox becomes a platform for quick and contextual responses. Say goodbye to time-consuming email composition and hello to instant productivity.</p>
+    <p>Harnessing the capabilities of AI, Smart Reply analyzes your incoming emails and suggests concise and relevant responses. With just a single click, you can select a Smart Reply option that aligns perfectly with the context of the email. Whether you're on a tight schedule or simply prefer efficiency, Smart Reply ensures that you stay on top of your inbox effortlessly. Keep the conversation flowing, even when you're on the go, and maintain your productivity at its peak.</p>
+    <p>Let Gmail be your AI-powered assistant, ready to assist you with Smart Reply. Embrace the ease and convenience of this feature, as it streamlines your email communication and enables prompt responses with a single click. Stay efficient, stay connected, and let Smart Reply revolutionize your Gmail experience.</p>  
+  </div>
+</div>>
+
+</body>
+</html>
